@@ -10,4 +10,50 @@ entries:
     urls:
     - https://zhujintao.github.io/charts/localpv-0.1.0.tgz
     version: 0.1.0
+  kafka:
+  - apiVersion: v1
+    appVersion: 2.4.0
+    created: "2020-01-10T15:47:36.097768+08:00"
+    description: Apache Kafka is a distributed streaming platform.
+    digest: 59fa8467b7b593a0fdfd77a69b3426bd5574e423636ee448aabd3d0651e6dee1
+    engine: gotpl
+    home: https://kafka.apache.org/
+    icon: https://bitnami.com/assets/stacks/kafka/img/kafka-stack-110x117.png
+    keywords:
+    - kafka
+    - zookeeper
+    - streaming
+    - producer
+    - consumer
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: kafka
+    sources:
+    - https://github.com/bitnami/bitnami-docker-kafka
+    urls:
+    - https://zhujintao.github.io/charts/kafka-7.1.1.tgz
+    version: 7.1.1
+  zookeeper:
+  - apiVersion: v1
+    appVersion: 3.5.6
+    created: "2020-01-10T15:48:20.695759+08:00"
+    description: A centralized service for maintaining configuration information,
+      naming, providing distributed synchronization, and providing group services
+      for distributed applications.
+    digest: 7469b5984e67d3f563fa9f0b3922c50c3df050c149bb24f1f29cbd05806169d4
+    engine: gotpl
+    home: https://zookeeper.apache.org/
+    icon: https://bitnami.com/assets/stacks/zookeeper/img/zookeeper-stack-110x117.png
+    keywords:
+    - zookeeper
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: zookeeper
+    sources:
+    - https://github.com/bitnami/bitnami-docker-zookeeper
+    urls:
+    - https://zhujintao.github.io/charts/zookeeper-5.3.1.tgz
+    version: 5.3.1
 generated: "2020-01-10T10:30:06.187679+08:00"
