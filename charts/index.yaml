@@ -3,11 +3,11 @@ entries:
   localpv:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-01-09T19:53:36.814863+08:00"
+    created: "2020-01-10T10:30:06.193442+08:00"
     description: A Helm chart for Kubernetes
-    digest: 79ea1f7120667e3ccb060379f37e84a2a5bbb92698cc969e4996fc3345c4670e
+    digest: 3f8df4ee25ba8f6ecac4268eb4ea425f46c65acc3c16b3f087ffcf6958e9b2cc
     name: localpv
     urls:
     - https://zhujintao.github.io/charts/localpv-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-09T19:53:36.814501+08:00"
+generated: "2020-01-10T10:30:06.187679+08:00"
