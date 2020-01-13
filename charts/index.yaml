@@ -13,9 +13,9 @@ entries:
   kafka:
   - apiVersion: v1
     appVersion: 2.4.0
-    created: "2020-01-13T15:38:58.689523+08:00"
+    created: "2020-01-13T16:04:10.932271+08:00"
     description: Apache Kafka is a distributed streaming platform.
-    digest: 68209c9f1b10d4bb39376bf290c367f1c729fb1c684fb5b36c6875967cf1b1f4
+    digest: 25c431bc175c8a86bc99afc8921e2fc2101d2627992e30ac32eafc4852c7c34e
     engine: gotpl
     home: https://kafka.apache.org/
     icon: https://bitnami.com/assets/stacks/kafka/img/kafka-stack-110x117.png
