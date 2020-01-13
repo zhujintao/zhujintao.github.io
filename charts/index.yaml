@@ -13,9 +13,9 @@ entries:
   kafka:
   - apiVersion: v1
     appVersion: 2.4.0
-    created: "2020-01-10T16:56:20.547176+08:00"
+    created: "2020-01-13T15:38:58.689523+08:00"
     description: Apache Kafka is a distributed streaming platform.
-    digest: 5f89caccb486af56e547fbcf5d70e6863891ec5410652587a38772182ac9e51a
+    digest: 68209c9f1b10d4bb39376bf290c367f1c729fb1c684fb5b36c6875967cf1b1f4
     engine: gotpl
     home: https://kafka.apache.org/
     icon: https://bitnami.com/assets/stacks/kafka/img/kafka-stack-110x117.png
@@ -37,11 +37,11 @@ entries:
   zookeeper:
   - apiVersion: v1
     appVersion: 3.5.6
-    created: "2020-01-10T16:57:41.674865+08:00"
+    created: "2020-01-13T15:40:05.316765+08:00"
     description: A centralized service for maintaining configuration information,
       naming, providing distributed synchronization, and providing group services
       for distributed applications.
-    digest: 37564b31d101b1e5d21f5783a03202fe8869838be68eed25cb568729fd55b3af
+    digest: ad4ec228390769ad92bf78fff60df4a7a32f8c32b4ff95eea8e99bd63c14b1c3
     engine: gotpl
     home: https://zookeeper.apache.org/
     icon: https://bitnami.com/assets/stacks/zookeeper/img/zookeeper-stack-110x117.png
