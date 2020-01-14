@@ -56,4 +56,30 @@ entries:
     urls:
     - https://zhujintao.github.io/charts/zookeeper-5.3.1.tgz
     version: 5.3.1
+  redis:
+  - apiVersion: v1
+    appVersion: 5.0.7
+    created: "2020-01-14T15:05:55.317155+08:00"
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: fb970b1a83e52d1d6fce8ab97222162c67152351e8e0a91d39549a7b7ce646ea
+    engine: gotpl
+    home: http://redis.io/
+    icon: https://bitnami.com/assets/stacks/redis/img/redis-stack-220x234.png
+    keywords:
+    - redis
+    - keyvalue
+    - database
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    - email: cedric@desaintmartin.fr
+      name: desaintmartin
+    name: redis
+    sources:
+    - https://github.com/bitnami/bitnami-docker-redis
+    urls:
+    - https://zhujintao.github.io/charts/redis-10.3.1.tgz
+    version: 10.3.1    
 generated: "2020-01-10T10:30:06.187679+08:00"
