@@ -81,5 +81,29 @@ entries:
     - https://github.com/bitnami/bitnami-docker-redis
     urls:
     - https://zhujintao.github.io/charts/redis-10.3.1.tgz
-    version: 10.3.1    
+    version: 10.3.1
+  influxdb:
+  - apiVersion: v1
+    appVersion: 1.7.9
+    created: "2020-01-14T17:02:51.267154+08:00"
+    description: InfluxDB is an open source time-series database designed to handle
+      large write and read loads in real-time.
+    digest: 4cace3b8da52dde30cb81cad87d4ce30ae3ce3be8436c616f80132fc837c4f81
+    engine: gotpl
+    home: https://www.influxdata.com/products/influxdb-overview/
+    icon: https://bitnami.com/assets/stacks/influxdb/img/influxdb-stack-220x234.png
+    keywords:
+    - influxdb
+    - tick
+    - database
+    - timeseries
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: influxdb
+    sources:
+    - https://github.com/bitnami/bitnami-docker-influxdb
+    urls:
+    - https://zhujintao.github.io/charts/influxdb-0.3.2.tgz
+    version: 0.3.2    
 generated: "2020-01-10T10:30:06.187679+08:00"
