@@ -109,10 +109,10 @@ entries:
   mariadb-galera:
   - apiVersion: v1
     appVersion: 10.4.12
-    created: "2020-03-07T11:55:41.216619+08:00"
+    created: "2020-03-07T12:13:13.161976+08:00"
     description: MariaDB Galera is a multi-master database cluster solution for synchronous
       replication and high availability.
-    digest: 73c7e26c58cb9a0d4e80403c422e3e622259f6773529c482f4c1553a81e2a9ba
+    digest: d120b933c906abf51eab50597c610cff8ea243309856e66877e1eabd4df7abfb
     engine: gotpl
     home: https://mariadb.org
     icon: https://bitnami.com/assets/stacks/mariadb-galera/img/mariadb-galera-stack-220x234.png
