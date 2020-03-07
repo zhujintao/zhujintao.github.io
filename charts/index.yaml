@@ -106,4 +106,32 @@ entries:
     urls:
     - https://zhujintao.github.io/charts/influxdb-0.3.2.tgz
     version: 0.3.2    
+  mariadb-galera:
+  - apiVersion: v1
+    appVersion: 10.4.12
+    created: "2020-03-07T11:55:41.216619+08:00"
+    description: MariaDB Galera is a multi-master database cluster solution for synchronous
+      replication and high availability.
+    digest: 73c7e26c58cb9a0d4e80403c422e3e622259f6773529c482f4c1553a81e2a9ba
+    engine: gotpl
+    home: https://mariadb.org
+    icon: https://bitnami.com/assets/stacks/mariadb-galera/img/mariadb-galera-stack-220x234.png
+    keywords:
+    - mariadb
+    - mysql
+    - database
+    - sql
+    - prometheus
+    - galera
+    - percona
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: mariadb-galera
+    sources:
+    - https://github.com/bitnami/bitnami-docker-mariadb-galera
+    - https://github.com/prometheus/mysqld_exporter
+    urls:
+    - https://zhujintao.github.io/charts/mariadb-galera-0.8.2.tgz
+    version: 0.8.2
 generated: "2020-01-10T10:30:06.187679+08:00"
