@@ -137,11 +137,11 @@ entries:
   minio:
   - apiVersion: v1
     appVersion: 2020.3.25
-    created: "2020-03-29T08:47:31.15781+08:00"
+    created: "2020-03-29T09:00:40.613462+08:00"
     description: MinIO is an object storage server, compatible with Amazon S3 cloud
       storage service, mainly used for storing unstructured data (such as photos,
       videos, log files, etc.)
-    digest: 516df8c9bee15cd1b0d6c34a76776ab934c344041797dd25bd05845323ec1770
+    digest: a21144349d8042695152eef69214f3f47ebebca0b3a0f20df86d00f8873c3994
     engine: gotpl
     home: https://min.io
     icon: https://bitnami.com/assets/stacks/minio/img/minio-stack-220x234.png
