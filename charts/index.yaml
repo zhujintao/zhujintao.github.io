@@ -160,4 +160,33 @@ entries:
     urls:
     - https://zhujintao.github.io/charts/minio-3.1.4.tgz
     version: 3.1.4
+  postgresql-ha:
+  - apiVersion: v1
+    appVersion: 11.7.0
+    created: "2020-04-07T11:36:34.662519+08:00"
+    description: Chart for PostgreSQL with HA architecture (using Replication Manager
+      (repmgr) and Pgpool).
+    digest: fdf5eeb026573d56e58edd0cbadf83141c0969be385a6e71b3bcf6be6aaf8997
+    engine: gotpl
+    home: https://www.postgresql.org/
+    icon: https://bitnami.com/assets/stacks/postgresql/img/postgresql-stack-110x117.png
+    keywords:
+    - postgresql
+    - repmgr
+    - pgpool
+    - postgres
+    - database
+    - sql
+    - replication
+    - cluster
+    - high availability
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: postgresql-ha
+    sources:
+    - https://github.com/bitnami/bitnami-docker-postgresql
+    urls:
+    - https://zhujintao.github.io/charts/postgresql-ha-1.4.12.tgz
+    version: 1.4.12
 generated: "2020-01-10T10:30:06.187679+08:00"
