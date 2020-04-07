@@ -163,10 +163,10 @@ entries:
   postgresql-ha:
   - apiVersion: v1
     appVersion: 11.7.0
-    created: "2020-04-07T11:36:34.662519+08:00"
+    created: "2020-04-07T14:16:49.485266+08:00"
     description: Chart for PostgreSQL with HA architecture (using Replication Manager
       (repmgr) and Pgpool).
-    digest: fdf5eeb026573d56e58edd0cbadf83141c0969be385a6e71b3bcf6be6aaf8997
+    digest: 7e9b1d5777ecd63fa2424df59a468a3e834132be1e5a062dbfa87eb3a11dc09e
     engine: gotpl
     home: https://www.postgresql.org/
     icon: https://bitnami.com/assets/stacks/postgresql/img/postgresql-stack-110x117.png
