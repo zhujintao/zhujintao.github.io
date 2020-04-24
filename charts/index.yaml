@@ -189,4 +189,24 @@ entries:
     urls:
     - https://zhujintao.github.io/charts/postgresql-ha-1.4.12.tgz
     version: 1.4.12
+  jtsys:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-24T10:04:22.479672+08:00"
+    description: JTSys Helm chart for Kubernetes
+    digest: 2219ce059848f749ed6efc215d7cd7201d5e93fc772a4c19dde1fc9629632106
+    name: jtsys
+    urls:
+    - https://zhujintao.github.io/charts/jtsys-0.4.8.tgz
+    version: 0.4.8
+  jtsys-gray:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-24T10:08:58.100498+08:00"
+    description: JTSys-gray Helm chart for Kubernetes
+    digest: db38e6abbb7d80335b57c5d125abea0b4134c93cc36370de9aaa161ddec0906e
+    name: jtsys-gray
+    urls:
+    - https://zhujintao.github.io/charts/jtsys-gray-0.1.3.tgz
+    version: 0.1.3    
 generated: "2020-01-10T10:30:06.187679+08:00"
